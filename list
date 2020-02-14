@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<title>list</title>
+</head>
+<body bgcolor="cream">
+<ul>type</ul>
+<li>item1</li>
+<li>item2</li>
+<li>item3</li>
+</ul>
+<ol>
+<ol type="I" start="4">
+<li>item1="circle> mango</li>
+<li>item2="square">apple</li>
+<li>item3</li>
+</ol>
+<dl>
+<dt>html</dt>
+<dd>hyper text markup language</dd>
+<dt>dog</dt>
+<dd>a humans friend</dd>
+</dl>
+<h1 align="center">safety tips for</h1>
+<ol type="y"start="5">
+<li>able to swim</li>
+<li> dont stand up or move around. if conoe tips,
+<ul>
+<li>hang on to the canoe</li>
+<li>use the canoe for support and</li>
+<li>swim to shore
+</ul></li>
+<li>dont overexert yourself</li>
+<li>use a bow light at night</li>
+</ol>
+<h1 align="center"> tablename:</h1>
+<table border="2" width="55%" bgcolor="lightblue" cellspacing="4" cellpadding="5" align="center" BorderColor='pink'>
+<tr> 
+<th> </th>
+<th>mango</th>
+<th>apple</th>
+<th>orange</th>
+</tr>
+<tr>
+<th>yam</th>
+<td>2</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<th>pooji</th>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+</tr>
+</body>
+</html>
