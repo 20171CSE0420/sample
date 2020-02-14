@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Styles of colors</title>
+</head>
+<body>
+<h1 style="color:blue;">presidency University</hl>
+<p style="color:red;">karnataka</p>
+<h1 style="font-family:verdana;">management</hl>
+<p style="font-family:courier;">MBA</p>
+<h1 style="font-size:300%;">school of engineering</hl>
+<h1 style="font-size:160%;">CSE</h1>
+<h1 style="text-align:left;">ECE</hl>
+<h1 style="text-align:left;">EEE</hl>
+<h1 style="font-size:160%;">MECH</h1>
+<h1 style="font-size:160%;">CIVIL</h1>
+<body>
+</html>
